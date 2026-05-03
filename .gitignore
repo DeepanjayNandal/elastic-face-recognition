@@ -1,0 +1,37 @@
+# Credentials and secrets
+credentials.txt
+*.pem
+*.key
+*.crt
+*.cert
+*.pub
+
+# Model weights
+*.pt
+*.pth
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Submission / grading packages
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
